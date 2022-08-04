@@ -17,15 +17,15 @@
 - 📫 How to reach me **mynematjon@icloud.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynamtjon&show_icons=true&locale=en&theme=tokyonight" alt="mynamtjon" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynamtjon&label=Profile%20views&color=0e75b6&style=flat" alt="mynamtjon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbekrakhimjonov" alt="azizbekrakhimjonov" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynematjon" alt="mynamtjon" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/azizbekrahimjonov571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azizbekrahimjonov571" height="30" width="40" /></a>
-<a href="https://instagram.com/azizbekrahimjonov571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizbekrahimjonov571" height="30" width="40" /></a>
+<a href="https://fb.com/mynamtjon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mynamtjon" height="30" width="40" /></a>
+<a href="https://instagram.com/mynamtjon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mynamtjon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
