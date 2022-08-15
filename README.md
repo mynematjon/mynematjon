@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nematjon Raximjonov</h1>
 <h3 align="center">A Python Developer from Uzbekistan</h3>
 <p align="center">
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif"> 
  </p>
 
 
